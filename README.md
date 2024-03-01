@@ -18,7 +18,7 @@ Este repositório contém código HTML e CSS para criar uma galeria de imagens c
 
 # <code>Como Usar</code>
 
-- Clone o repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git
+- Clone o repositório: git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/VictorBravim/Gallery_Hexagon)
 - Abra o arquivo index.html em um navegador web.
 
 # <code>Personalização</code>
